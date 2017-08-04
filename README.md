@@ -10,6 +10,7 @@ Use the FieldbusGateway_005 tables to access the hardware pins, uart, spi, and i
 * MIKROBUS_AN
 * MIKROBUS_RESET
 * MIKROBUS_SPI
+* MIKROBUS_CS
 * MIKROBUS_PWM
 * MIKROBUS_INT
 * MIKROBUS_UART
