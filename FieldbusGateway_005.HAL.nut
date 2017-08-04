@@ -6,6 +6,7 @@ FieldbusGateway_005 <- {
     "MIKROBUS_AN" : hardware.pinM,
     "MIKROBUS_RESET" : hardware.pinH,
     "MIKROBUS_SPI" : hardware.spiBCAD,
+    "MIKROBUS_CS" : hardware.pinD,
     "MIKROBUS_PWM" : hardware.pinU,
     "MIKROBUS_INT" : hardware.pinXD,
     "MIKROBUS_UART" : hardware.uart1,
